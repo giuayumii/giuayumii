@@ -5,7 +5,9 @@
 🌱 Atualmente, estou cursando Ciência da Computação na Universidade Braz Cubas.
 
 📫 Meus contatos são:
+
 Telefone: (11) 9 9164-4518
+
 E-mail: giucardoso4@gmail.com
 
 Linkedin: www.linkedin.com/in/giulia-ayumi-shimada-cardoso-580868338
@@ -19,7 +21,9 @@ Linkedin: www.linkedin.com/in/giulia-ayumi-shimada-cardoso-580868338
 🌱 I'm currently studying Computer Science at Braz Cubas University.
 
 📫 My contacts are:
+
 Phone: (11) 9 9164-4518
+
 Email: giucardoso4@gmail.com
 
 Linkedin: www.linkedin.com/in/giulia-ayumi-shimada-cardoso-580868338
